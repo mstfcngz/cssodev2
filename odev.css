@@ -1,0 +1,76 @@
+.container {
+ width: 1400px;
+ margin-left: 20px;
+ margin-right: 20px;
+ line-height: 0.3;
+}
+.logo {
+    margin-top: 10px;
+    margin-left: 550px;
+    margin-right: auto;
+    clear: both;
+}
+
+.search {
+    height: 80px;
+    margin-right: auto;
+    background-color: rgb(225, 230, 234);
+    text-align: center;
+}
+.googles {
+    color: rgb(3, 9, 14);
+    border-style: groove;
+    border-radius: 2px;   
+    text-decoration: none;
+}
+.card1{
+    width: 37.21%;
+    height: 112px;
+    float: left;
+    background-color: #7EE5DA ;  
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+
+ }
+.card2{
+    width: 20%;
+    height: 112px;
+    float: left;
+    background-color:#70CCC2 ;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+   }
+   .card3{
+    width: 42%;
+    height: 112px;
+    float: left;
+    background-color:#62B3AA ;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+   }
+  .link {
+   color: #0b0bf2;
+   text-decoration: underline;
+  }
+  .sub {
+    background-color:rgb(225, 230, 234) ;
+    color: black;
+    border-style: groove;
+    border-radius: 2px;
+    text-decoration: none;
+    text-align: center;
+    padding: 3px;
+    }
+
+.fs-1 {
+    font-size: -1;
+    text-align: center;
+    margin-top: 20px;
+}
